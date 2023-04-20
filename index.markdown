@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Unity is a place where home schoolers can come and learn about random stuff, such as beekeeping, maths, building construction and art.
+Unity is a place where home schoolers can come and together and learn with other home schooled children and young people, and discover interesting topics such as beekeeping, maths, building construction and art.
 
 We do this at New Life Church in Parkhead.
 
